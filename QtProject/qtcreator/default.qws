@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 8.0.1, 2022-09-24T00:55:28. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">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</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/OutOfGravity/Network/Network.pyproject</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/OutOfGravity/Network/Network.pyproject</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-DebuggerSeparateWidgetGeometry</variable>
+  <value type="QRect">100x30+0+0</value>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">/home/OutOfGravity/Network</value>
+    <value type="QString">Network</value>
+   </valuelist>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">DebuggerSeparateWidgetGeometry</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+   <value type="QString">Watchers</value>
+  </valuelist>
+ </data>
+</qtcreator>

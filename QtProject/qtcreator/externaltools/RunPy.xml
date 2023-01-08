@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Written on Sat Sep 17 14:48:24 2022 by Qt Creator 8.0.1-->
+<externaltool id="RunPy">
+    <description>This tool prints a line of useful text</description>
+    <displayname>RunPy</displayname>
+    <category>Python</category>
+    <executable output="showinpane" error="showinpane" modifiesdocument="no">
+        <path>python</path>
+        <arguments>%{CurrentDocument:FilePath}</arguments>
+        <workingdirectory>%{CurrentDocument:Path}</workingdirectory>
+    </executable>
+</externaltool>
