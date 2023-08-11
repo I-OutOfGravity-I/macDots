@@ -1,0 +1,118 @@
+<application>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Eclipse Temurin (AdoptOpenJDK HotSpot) 19.0.2" />
+        <option name="installDir" value="$USER_HOME$/.jdks/temurin-19.0.2" />
+        <option name="sha256" value="3a3ba7a3f8c3a5999e2c91ea1dca843435a0d1c43737bd2f6822b2f02fc52165" />
+        <option name="url" value="https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jdk_x64_linux_hotspot_19.0.2_7.tar.gz" />
+        <option name="versionText" value="19.0.2" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="ideScale" value="1.75" />
+    <option name="presentationModeIdeScale" value="1.25" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "FindSplitterProportion": "0.4204672",
+    "InstalledPluginsSearchHistory": "com.intellij.modules.rider\navalonia\navaloni\navalo\naval",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-231.8109.175",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "IU-232.8660.185",
+    "MarketplacePluginsSearchHistory": "avalonia\nava\nride\nrider\ncom.intellij.modules.rider",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SAVED_ANDROID_NPW_LANGUAGE": "Kotlin",
+    "SettingsSearchHistory": "python\nsdk\ngradle\njdk\nlicen",
+    "appcds.runOnSecondStart": "IU-232.8660.185-6dba47a879091ecfb43944b0a4f61f5a67a0eb946ec7e3ff6bbfbf0fe70765dd",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IU-232.8660.185",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.util.projectWizard.MultiWebTemplateNewProjectWizard$createTemplateStep$1.selectedStep": "React",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "com.jetbrains.python.newProject.NewEnvironmentStep.selectedStep": "Virtualenv",
+    "com.jetbrains.python.newProject.PythonSdkStep.selectedStep": "New",
+    "defaultJdkConfigured": "true",
+    "evlsprt.231": "187e8c77b00",
+    "evlsprt3.231": "25",
+    "evlsprt3.232": "23",
+    "experimental.ui.first.promotion.localdate": "2023-04-06",
+    "experimental.ui.used.once": "true",
+    "file.gist.reindex.count": "35",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "15.0",
+    "fontSizeToResetEditor": "15.0",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "got.it.tooltip.empty.project.create.file": "1",
+    "got.it.tooltip.js.debugger.terminal.start.debugger.from.url": "1",
+    "got.it.tooltip.terminal.smart_command_execution": "1",
+    "gotit.previous.run": "IU-232.8660.185",
+    "ide.memory.adjusted": "true",
+    "ide.updates.old.dirs.scan.scheduled": "1692346930862",
+    "ift.hide.welcome.screen.promo": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "232-1.9.0-IJ8660.185",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "last_opened_file_path": "/usr/bin/python3.10",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "plugins.preselection.path": "/home/OutOfGravity/Downloads",
+    "previousColorScheme": "_@user_Rider Dark",
+    "project.wizard.group": "NPW.empty-project",
+    "registry.to.advanced.settings.migration.build": "IU-232.8660.185",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "5.1.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/OutOfGravity/Downloads/avaloniarider-1.0.3.zip",
+      "/home/OutOfGravity/Desktop/Programmieren/Steam_Prices",
+      "/usr/bin/python3.10",
+      "/home/OutOfGravity/Desktop/Programmieren/CSGO",
+      "/home/OutOfGravity/Desktop/Programmieren",
+      "/home/OutOfGravity/Downloads/ReactioTimeGameWebapp"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "SpeedSearch": 1684325406149,
+    "CtrlW": 1687171697227,
+    "Rename": 1691741720455,
+    "FocusProjectToolWindow": 1683359719060,
+    "SearchEverywhere": 1682501333319,
+    "CommentCode": 1682869777258,
+    "ShowUsages": 1682291717808,
+    "FindReplaceToggle": 1681336012055,
+    "ContextActions": 1682415927533,
+    "FindInPath": 1682257098109
+  },
+  "tipsOrderSeed": 1691742415473
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="CSGO-history" project-path="$USER_HOME$/Desktop/Programmieren/CSGO" last-access-time="1682257367995" />
+      <command-history-file filename="Inventory-history" project-path="$USER_HOME$/Desktop/Programmieren/Inventory" last-access-time="1683367969020" />
+      <command-history-file filename="untitled-history" project-path="$USER_HOME$/IdeaProjects/untitled" last-access-time="1680815012743" />
+    </command-history-files>
+  </component>
+</application>

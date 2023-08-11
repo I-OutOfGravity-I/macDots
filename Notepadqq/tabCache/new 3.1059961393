@@ -1,0 +1,95 @@
+DROP TABLE IF EXISTS Schueler_belegt_Kurs;
+DROP TABLE IF EXISTS Note;
+DROP TABLE IF EXISTS NotenTyp;
+DROP TABLE IF EXISTS Kurs;
+DROP TABLE IF EXISTS Notenschluessel;
+DROP TABLE IF EXISTS Fach;
+DROP TABLE IF EXISTS Schueler;
+DROP TABLE IF EXISTS Klasse;
+DROP TABLE IF EXISTS Lehrer;
+DROP TABLE IF EXISTS Person;
+DROP TABLE IF EXISTS Account;
+
+-- Erstelle die Tabellen
+CREATE TABLE Account (
+  Accountid INTEGER PRIMARY KEY AUTOINCREMENT,
+  Benutzername VARCHAR(50) NOT NULL,
+  Password VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Person (
+  Personid INTEGER PRIMARY KEY AUTOINCREMENT,
+  Accountid INTEGER NOT NULL,
+  Vorname VARCHAR(50) NOT NULL,
+  Nachname VARCHAR(50) NOT NULL,
+  Geschlecht CHAR(1) NOT NULL,
+  FOREIGN KEY (Accountid) REFERENCES Account(Accountid)
+);
+
+CREATE TABLE Lehrer (
+  Lehrerid INTEGER PRIMARY KEY AUTOINCREMENT,
+  Personid INTEGER NOT NULL,
+  FOREIGN KEY (Personid) REFERENCES Person(Personid)
+);
+
+CREATE TABLE Klasse (
+  Klasseid INTEGER PRIMARY KEY AUTOINCREMENT,
+  Jahrgang INTEGER NOT NULL,
+  Name VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Schueler (
+  Schuelerid INTEGER PRIMARY KEY AUTOINCREMENT,
+  Personid INTEGER NOT NULL,
+  Klasseid INTEGER NOT NULL,
+  FOREIGN KEY (Personid) REFERENCES Person(Personid),
+  FOREIGN KEY (Klasseid) REFERENCES Klasse(Klasseid)
+);
+
+CREATE TABLE Fach (
+  Fachid INTEGER PRIMARY KEY AUTOINCREMENT,
+  Name VARCHAR(50) NOT NULL,
+  Beschreibung VARCHAR(200) NOT NULL
+);
+
+CREATE TABLE Notenschluessel (
+  Notenschluesselid INTEGER PRIMARY KEY AUTOINCREMENT,
+  SomiNoteGewichtungProzent INTEGER NOT NULL,
+  KlausurNoteGewichtungProzent INTEGER NOT NULL
+);
+
+CREATE TABLE Kurs (
+  Kursid INTEGER PRIMARY KEY AUTOINCREMENT,
+  Lehrerid INTEGER NOT NULL,
+  Fachid INTEGER NOT NULL,
+  Jahrgang INTEGER NOT NULL,
+  Notenschluesselid INTEGER NOT NULL,
+  FOREIGN KEY (Lehrerid) REFERENCES Lehrer(Lehrerid),
+  FOREIGN KEY (Fachid) REFERENCES Fach(Fachid),
+  FOREIGN KEY (Notenschluesselid) REFERENCES Notenschluessel(Notenschluesselid)
+);
+
+CREATE TABLE NotenTyp (
+  NotenTypid INTEGER PRIMARY KEY AUTOINCREMENT,
+  Bezeichnung VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Note (
+  Noteid INTEGER PRIMARY KEY AUTOINCREMENT,
+  Schueler_belegt_Kursid INTEGER NOT NULL,
+  NotenTypid INTEGER NOT NULL,
+  NoteInProzent INTEGER NOT NULL,
+  erstesHalbjahr BOOLEAN NOT NULL,
+  zweitesHalbjahr BOOLEAN NOT NULL,
+  Jahrgang INTEGER NOT NULL,
+  FOREIGN KEY (Schueler_belegt_Kursid) REFERENCES Schueler_belegt_Kurs(Schueler_belegt_Kursid),
+  FOREIGN KEY (NotenTypid) REFERENCES NotenTyp(NotenTypid)
+);
+
+CREATE TABLE Schueler_belegt_Kurs (
+  Schueler_belegt_Kursid INTEGER PRIMARY KEY AUTOINCREMENT,
+  Schuelerid INTEGER NOT NULL,
+  Kursid INTEGER NOT NULL,
+  FOREIGN KEY (Schuelerid) REFERENCES Schueler(Schuelerid),
+  FOREIGN KEY (Kursid) REFERENCES Kurs(Kursid)
+);

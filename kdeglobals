@@ -1,0 +1,14 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry
+
+[Colors:View]
+BackgroundNormal=#2E2E2E
+
+[KDE]
+ShowDeleteCommand=true
+
+[KShortcutsDialog Settings]
+Dialog Size=789,480
+
+[PreviewSettings]
+MaximumRemoteSize=0

@@ -1,0 +1,60 @@
+2 Accounts anlegen
+1 Schueler
+1 Lehrer
+
+Klassen:
+Controller
+
+person 
+Schueler
+Klasse
+Lehrer
+Kurs
+Fach
+Noten
+Notentyp
+Account
+Notenschluessel
+Schueler belegt kurs und hat note (SchuelerID, KursID, NotenID)
+
+
+einloggen mit user
+get logged in und welcher Typ (Schueler, Lehrer)
+
+Funktion einloggen
+Check Account return Login as (Schueler, Lehrer)
+
+Funktion getCoursesForTeacher(Lehrer)
+mit Lehrer alle Kurse aus diesem Jahr bekommen
+
+Funktion getClassesOfCoursesForTeacher(Lehrer)
+von verbindung aus Jahr und Fach und Klasse
+
+get:
+Namen, 
+Klassenarbeit Noten avg, 
+Sozinote avg, 
+Test avg, 
+Zeugnis Note
+
+Funktion getExamGradesForOneStudent(Lehrer)
+get all Klassenarbeiten
+
+Funktion getSoziGradesForOneStudent(Lehrer)
+get all Sozinoten
+
+Funktion getTestGradesForOneStudent (Lehrer)
+get all Test
+
+Funktion insertGrades(Lehrer, Notentyp, Array[Noten], Array[Schueler ID])
+
+
+Funktion getGrades(Schueler)
+Alle Noten Anzeigen 
+
+Funktion getReportCard(Schueler)
+Aus allen Jahren Zeugnis bekommen
+
+
+
+

@@ -1,0 +1,25 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Programmieren/CSGO" value="true" />
+        <entry key="$USER_HOME$/Desktop/Programmieren/Client" value="true" />
+        <entry key="$USER_HOME$/Desktop/Programmieren/Inventory" value="true" />
+        <entry key="$USER_HOME$/Desktop/Programmieren/Steam_Prices" value="true" />
+        <entry key="$USER_HOME$/Desktop/Programmieren/untitled" value="true" />
+        <entry key="$USER_HOME$/Desktop/Programmieren/untitled1" value="true" />
+        <entry key="$USER_HOME$/Downloads/ReactioTimeGameWebapp" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/demo" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/untitled" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads" />
+        <option value="$USER_HOME$/Desktop/Programmieren" />
+      </list>
+    </option>
+  </component>
+</application>

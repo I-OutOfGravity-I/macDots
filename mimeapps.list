@@ -1,0 +1,13 @@
+[Added Associations]
+application/vnd.apple.mpegurl=notepadqq.desktop;
+text/plain=vim.desktop;
+text/x-log=notepadqq.desktop;
+video/mp4=vlc.desktop;
+
+[Default Applications]
+application/vnd.apple.mpegurl=notepadqq.desktop;
+text/plain=vim.desktop;
+text/x-log=notepadqq.desktop
+video/mp4=vlc.desktop;
+x-scheme-handler/ftb=ftb-app.desktop
+x-scheme-handler/postman=Postman.desktop

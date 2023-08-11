@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnyConnectProfile xmlns="http://schemas.xmlsoap.org/encoding/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.xmlsoap.org/encoding/ AnyConnectProfile.xsd">
+	<ClientInitialization>
+		<UseStartBeforeLogon UserControllable="false">false</UseStartBeforeLogon>
+		<AutomaticCertSelection UserControllable="true">true</AutomaticCertSelection>
+		<ShowPreConnectMessage>false</ShowPreConnectMessage>
+		<CertificateStore>All</CertificateStore>
+		<CertificateStoreOverride>false</CertificateStoreOverride>
+		<ProxySettings>Native</ProxySettings>
+		<AllowLocalProxyConnections>true</AllowLocalProxyConnections>
+		<AuthenticationTimeout>12</AuthenticationTimeout>
+		<AutoConnectOnStart UserControllable="true">false</AutoConnectOnStart>
+		<MinimizeOnConnect UserControllable="true">true</MinimizeOnConnect>
+		<LocalLanAccess UserControllable="false">false</LocalLanAccess>
+		<ClearSmartcardPin UserControllable="true">true</ClearSmartcardPin>
+		<AutoReconnect UserControllable="false">true
+			<AutoReconnectBehavior UserControllable="false">DisconnectOnSuspend</AutoReconnectBehavior>
+		</AutoReconnect>
+		<AutoUpdate UserControllable="false">false</AutoUpdate>
+		<RSASecurIDIntegration UserControllable="false">Automatic</RSASecurIDIntegration>
+		<WindowsLogonEnforcement>SingleLocalLogon</WindowsLogonEnforcement>
+		<WindowsVPNEstablishment>LocalUsersOnly</WindowsVPNEstablishment>
+		<AutomaticVPNPolicy>false</AutomaticVPNPolicy>
+		<PPPExclusion UserControllable="false">Disable
+			<PPPExclusionServerIP UserControllable="false"></PPPExclusionServerIP>
+		</PPPExclusion>
+		<EnableScripting UserControllable="false">false</EnableScripting>
+		<CertificateMatch>
+			<DistinguishedName>
+				<DistinguishedNameDefinition Operator="Equal" Wildcard="Enabled" MatchCase="Disabled">
+					<Name>ISSUER-CN</Name>
+					<Pattern>DHL</Pattern>
+				</DistinguishedNameDefinition>
+				</DistinguishedName>
+		</CertificateMatch>
+		<CertificateEnrollment>
+			<CertificateExpirationThreshold>0</CertificateExpirationThreshold>
+			<CertificateImportStore>All</CertificateImportStore>
+		</CertificateEnrollment>
+		<EnableAutomaticServerSelection UserControllable="false">false
+			<AutoServerSelectionImprovement>20</AutoServerSelectionImprovement>
+			<AutoServerSelectionSuspendTime>4</AutoServerSelectionSuspendTime>
+		</EnableAutomaticServerSelection>
+		<RetainVpnOnLogoff>false
+		</RetainVpnOnLogoff>
+	</ClientInitialization>
+	<ServerList>
+		<HostEntry>
+			<HostName>cvpn.dhl.com</HostName>
+			<HostAddress>cvpn.dhl.com</HostAddress>
+			<BackupServerList>
+				<HostAddress>cvpn-ea.dhl.com</HostAddress>
+				<HostAddress>cvpn-ap.dhl.com</HostAddress>
+				<HostAddress>cvpn-am.dhl.com</HostAddress>
+			</BackupServerList>
+		</HostEntry>
+	</ServerList>
+</AnyConnectProfile>

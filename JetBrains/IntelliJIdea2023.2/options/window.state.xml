@@ -1,0 +1,41 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.3072.1920@216dpi" width="2888" height="525" />
+    <size key="GridCell.Tab.0.center.0.0.3072.1920@216dpi" width="2888" height="525" />
+    <size key="GridCell.Tab.0.right.0.0.3072.1920@216dpi" width="2888" height="525" />
+    <size key="GridCell.Tab.0.bottom.0.0.3072.1920@216dpi" width="2888" height="525" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="20" width="1536" height="939" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="2144" y="1447" width="889" height="324" key="ProcessPopupWindow.ideScale=175" timestamp="1682167862326">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="2144" y="1447" width="889" height="324" key="ProcessPopupWindow.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1682167862326" />
+    <state width="1383" height="239" key="ShowUsagesActions.dimensionServiceKey.ideScale=175" timestamp="1682372998371">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state width="1383" height="239" key="ShowUsagesActions.dimensionServiceKey.ideScale=175/0.0.3072.1920" timestamp="1682372998371" />
+    <state x="1536" y="972" width="3076" height="1899" key="WELCOME_SCREEN" timestamp="1680814649816">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="1536" y="972" width="3076" height="1899" key="WELCOME_SCREEN.ideScale=175" timestamp="1684325487850">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="1536" y="972" width="3076" height="1899" key="WELCOME_SCREEN.ideScale=175/0.0.3072.1920" timestamp="1684325487850" />
+    <state x="1536" y="972" width="3076" height="1899" key="WELCOME_SCREEN/0.0.3072.1920" timestamp="1680814649816" />
+    <state x="950" y="877" width="1162" height="145" key="ide.config.custom.settings" timestamp="1680814637980">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="950" y="877" width="1162" height="145" key="ide.config.custom.settings/0.0.3072.1920" timestamp="1680814637980" />
+    <state x="1134" y="654" key="new project wizard" timestamp="1680814717030">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="1120" y="491" width="800" height="1357" key="new project wizard.ideScale=175" timestamp="1682291485070">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="1120" y="491" width="800" height="1357" key="new project wizard.ideScale=175/0.0.3072.1920" timestamp="1682291485070" />
+    <state x="1134" y="654" key="new project wizard/0.0.3072.1920" timestamp="1680814717030" />
+  </component>
+</application>

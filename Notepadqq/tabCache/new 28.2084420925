@@ -1,0 +1,22 @@
+get steam inventory
+1 controller
+viele Clients
+
+Controller 
+	checkt heartbeat von client
+	Endpunkte
+		registrieren
+		Anfrage an Client schicken mit steam inventory link & proxy
+		
+Client
+	connect to proxy
+		http
+		sock4
+		sock5
+	Endpunkte
+		Receive anfrage von Controller get json data
+		paste in Database
+	Thread send heartbeat
+		
+erstelle eine python applikation welche als Controller agieren soll. der Controller hat 2 Endpunkte, einer damit sich clients registrieren können und einen anderen damit er eine Anfrage an den Client schicken kann. Es gibt dafür 2 Parameter Proxy Server und eine steam ID.
+Auch soll der Controller periodisch den Client fragen, ob er noch am leben ist. Der Client hat einen Endpunkt wo eine WebAnfrage an eine Steam Inventory API mit einem http, sock4 oder sock5 proxy ausgeführt wird. Das Ergebnis der JSON wird in eine mysql Datenbank gespeichert

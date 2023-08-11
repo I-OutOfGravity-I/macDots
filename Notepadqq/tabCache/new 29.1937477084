@@ -1,0 +1,26 @@
+CREATE TABLE test.`steam_items` (
+  `name` varchar(255) DEFAULT NULL,
+  `hash_name` varchar(255) NOT NULL,
+  `appid` int(11) DEFAULT NULL,
+  PRIMARY KEY (`hash_name`)
+);
+
+CREATE TABLE test.`request` (
+  `requestID` int(11) NOT NULL AUTO_INCREMENT,
+  `sell_listings` int(11) DEFAULT NULL,
+  `sell_price` decimal(10,2) DEFAULT NULL,
+  `sell_price_text` varchar(255) DEFAULT NULL,
+  `timestamp` int(15) DEFAULT NULL,
+  PRIMARY KEY (`requestID`)
+);
+
+CREATE TABLE test.`zuweisung` (
+  `ID` int(11) NOT NULL AUTO_INCREMENT,
+  `requestID` int(11) DEFAULT NULL,
+  `hash_name` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`ID`),
+  KEY `fk1` (`requestID`),
+  KEY `fk2` (`hash_name`),
+  CONSTRAINT `fk1` FOREIGN KEY (`requestID`) REFERENCES `request` (`requestID`),
+  CONSTRAINT `fk2` FOREIGN KEY (`hash_name`) REFERENCES `steam_items` (`hash_name`)
+);

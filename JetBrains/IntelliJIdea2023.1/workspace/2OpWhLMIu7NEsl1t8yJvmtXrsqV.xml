@@ -1,0 +1,201 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="untitled" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/logo.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reportWebVitals.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34" />
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/setupTests.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JavaScript">
+      <summary usageCount="4" lastUsed="1682259096885" />
+    </fileType>
+    <fileType name="SVG">
+      <summary usageCount="1" lastUsed="1682259092179" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JavaScript">
+      <summary usageCount="4" lastUsage="1682259096885" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="1" lastUsage="1682259092179" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/OutOfGravity/Desktop/Programmieren/untitled}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/OutOfGravity/Desktop/Programmieren/untitled}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/OutOfGravity/Desktop/Programmieren/untitled/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="npm.npm start" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1366000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32991534" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Python Packages" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33022887" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" show_stripe_button="false" />
+      <unified_weights bottom="0.33022887" left="0.32991534" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2888" height="525" key="GridCell.Tab.0.bottom.ideScale=175" timestamp="1682259490066">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state width="2888" height="525" key="GridCell.Tab.0.bottom.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1682259490066" />
+    <state width="2888" height="525" key="GridCell.Tab.0.center.ideScale=175" timestamp="1682259490065">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state width="2888" height="525" key="GridCell.Tab.0.center.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1682259490065" />
+    <state width="2888" height="525" key="GridCell.Tab.0.left.ideScale=175" timestamp="1682259490065">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state width="2888" height="525" key="GridCell.Tab.0.left.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1682259490065" />
+    <state width="2888" height="525" key="GridCell.Tab.0.right.ideScale=175" timestamp="1682259490066">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state width="2888" height="525" key="GridCell.Tab.0.right.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1682259490066" />
+    <state x="438" y="152" key="SettingsEditor.ideScale=175" timestamp="1682258943039">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="438" y="152" key="SettingsEditor.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1682258943039" />
+    <state x="1130" y="350" width="800" height="1384" key="new project wizard.ideScale=175" timestamp="1682259485956">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="1130" y="350" width="800" height="1384" key="new project wizard.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1682259485956" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reportWebVitals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/setupTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

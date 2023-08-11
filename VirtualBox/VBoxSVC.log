@@ -1,0 +1,97 @@
+00:00:00.003429 main     VirtualBox XPCOM Server 7.0.8 r156879 linux.amd64 (Apr 17 2023 16:00:00) release log
+00:00:00.003437 main     Log opened 2023-08-11T09:18:53.704802000Z
+00:00:00.003439 main     Build Type: release
+00:00:00.003457 main     OS Product: Linux
+00:00:00.003461 main     OS Release: 6.3.8-arch1-1-t2
+00:00:00.003464 main     OS Version: #1 SMP PREEMPT_DYNAMIC Sun, 18 Jun 2023 10:56:47 +0000
+00:00:00.003519 main     DMI Product Name: MacBookPro16,1
+00:00:00.003546 main     DMI Product Version: 1.0
+00:00:00.003564 main     Firmware type: UEFI
+00:00:00.003802 main     Secure Boot: Disabled
+00:00:00.003938 main     Host RAM: 15890MB (15.5GB) total, 14424MB (14.0GB) available
+00:00:00.003949 main     Executable: /opt/VirtualBox/VBoxSVC
+00:00:00.003950 main     Process ID: 2615
+00:00:00.003951 main     Package type: LINUX_64BITS_GENERIC
+00:00:00.007520 main     IPC socket path: /tmp/.vbox-OutOfGravity-ipc/ipcd
+00:00:00.116602 nspr-2   VirtualBox: object creation starts
+00:00:00.117720 nspr-2   Home directory: '/home/OutOfGravity/.config/VirtualBox'
+00:00:00.118833 nspr-2   Loading settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.131841 nspr-2   USB: Unknown USB device detected (idVendor: 0x05ac, idProduct: 0x8104)
+00:00:00.132185 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.154683 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.157551 nspr-2   HostDnsMonitor: initializing
+00:00:00.158262 nspr-2   NAT: resolv.conf: nameserver 10.91.0.1
+00:00:00.158301 nspr-2   HostDnsMonitor: updating information
+00:00:00.158346 nspr-2   HostDnsMonitor: old information
+00:00:00.158354 nspr-2     no server entries
+00:00:00.158364 nspr-2     no domain set
+00:00:00.158370 nspr-2     no search string entries
+00:00:00.158377 nspr-2   HostDnsMonitor: new information
+00:00:00.158383 nspr-2     server 1: 10.91.0.1
+00:00:00.158390 nspr-2     no domain set
+00:00:00.158396 nspr-2     no search string entries
+00:00:00.166860 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.172275 nspr-2   Loading settings file "/home/OutOfGravity/VirtualBox VMs/Windows10/Windows10.vbox" with version "1.19-linux"
+00:00:00.175473 nspr-2   VirtualBox: object created
+00:00:00.429819 nspr-4   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.470581 nspr-4   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:00:00.471685 nspr-4   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.509930 nspr-4   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:00:00.510897 nspr-4   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.549028 nspr-4   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:00:02.459501 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Aborted)}, preserve=false aResultDetail=0
+00:00:02.729974 nspr-4   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:02.768338 nspr-4   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:00:04.547596 nspr-4   Launched VM: 268444784 pid: 2673 (0xa71) frontend: GUI/Qt name: Windows10
+00:00:04.615060 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Aborted)}, preserve=false aResultDetail=0
+00:00:05.154401 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Aborted)}, preserve=false aResultDetail=0
+00:00:05.273650 nspr-8   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:05.313699 nspr-8   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:00:06.723734 nspr-6   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:07.352952 nspr-2   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:07.392707 nspr-2   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:00:08.309002 nspr-7   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:08.382256 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:08.550124 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:08.756548 nspr-6   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.795630 nspr-6   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:00:09.015736 nspr-3   Saving settings file "/home/OutOfGravity/VirtualBox VMs/Windows10/Windows10.vbox" with version "1.19-linux"
+00:00:09.082428 nspr-3   Finished saving settings file "/home/OutOfGravity/VirtualBox VMs/Windows10/Windows10.vbox"
+00:00:09.085179 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:09.099678 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:09.243219 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:26.675467 nspr-2   Saving settings file "/home/OutOfGravity/VirtualBox VMs/Windows10/Windows10.vbox" with version "1.19-linux"
+00:00:26.734133 nspr-2   Finished saving settings file "/home/OutOfGravity/VirtualBox VMs/Windows10/Windows10.vbox"
+00:00:47.466011 nspr-7   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:47.514132 nspr-7   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:02:43.729500 nspr-5   Saving settings file "/home/OutOfGravity/VirtualBox VMs/Windows10/Windows10.vbox" with version "1.19-linux"
+00:02:43.770259 nspr-5   Finished saving settings file "/home/OutOfGravity/VirtualBox VMs/Windows10/Windows10.vbox"
+00:02:50.257699 nspr-3   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:50.296760 nspr-3   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:02:50.297564 nspr-8   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:50.336228 nspr-8   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:02:50.337036 nspr-5   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:50.375160 nspr-5   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:02:52.297445 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:52.565211 nspr-8   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:52.588623 nspr-8   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:02:53.652268 nspr-4   Launched VM: 268440112 pid: 3492 (0xda4) frontend: GUI/Qt name: Windows10
+00:02:53.717460 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:54.286957 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:54.383403 nspr-4   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:54.422279 nspr-4   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:02:55.780988 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:02:56.372954 nspr-7   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:56.411975 nspr-7   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:03:01.138232 nspr-7   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:03:01.213059 nspr-5   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:01.363041 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:03:01.551943 nspr-2   Saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:01.608741 nspr-2   Finished saving settings file "/home/OutOfGravity/.config/VirtualBox/VirtualBox.xml"
+00:03:01.896458 nspr-8   Saving settings file "/home/OutOfGravity/VirtualBox VMs/Windows10/Windows10.vbox" with version "1.19-linux"
+00:03:01.955910 nspr-8   Finished saving settings file "/home/OutOfGravity/VirtualBox VMs/Windows10/Windows10.vbox"
+00:03:01.958235 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:03:01.967678 nspr-6   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:03:02.119037 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:03:29.082727 nspr-3   Saving settings file "/home/OutOfGravity/VirtualBox VMs/Windows10/Windows10.vbox" with version "1.19-linux"
+00:03:29.181613 nspr-3   Finished saving settings file "/home/OutOfGravity/VirtualBox VMs/Windows10/Windows10.vbox"

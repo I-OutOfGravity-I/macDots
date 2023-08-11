@@ -1,0 +1,95 @@
+CREATE TABLE `Schueler` (
+  `Schuelerid` int PRIMARY KEY AUTO_INCREMENT,
+  `Personid` int,
+  `Klasseid` int
+);
+
+CREATE TABLE `Klasse` (
+  `Klasseid` int PRIMARY KEY AUTO_INCREMENT,
+  `Jahrgang` int,
+  `Name` varchar(255)
+);
+
+CREATE TABLE `Schueler_belegt_kurs` (
+  `Schuelerid` int,
+  `Kursid` int
+);
+
+CREATE TABLE `Lehrer` (
+  `Lehrerid` int PRIMARY KEY AUTO_INCREMENT,
+  `Personid` int
+);
+
+CREATE TABLE `Kurs` (
+  `Kursid` int PRIMARY KEY AUTO_INCREMENT,
+  `Lehrerid` int,
+  `Fachid` int,
+  `Jahrgang` int,
+  `Notenschluesselid` int
+);
+
+CREATE TABLE `Fach` (
+  `Fachid` int PRIMARY KEY AUTO_INCREMENT,
+  `Name` varchar(255),
+  `Beschreibung` varchar(255)
+);
+
+CREATE TABLE `Notenschluessel` (
+  `Notenschluesselid` int,
+  `SomiNoteGewichtungProzent` int,
+  `KlausurNoteGewichtungProzent` int
+);
+
+CREATE TABLE `Account` (
+  `Accountid` int PRIMARY KEY AUTO_INCREMENT,
+  `Benutzername` varchar(255),
+  `Password` varchar(255)
+);
+
+CREATE TABLE `Person` (
+  `Personid` int PRIMARY KEY AUTO_INCREMENT,
+  `Accountid` int,
+  `Vorname` varchar(255),
+  `Nachname` varchar(255),
+  `Geschlecht` char
+);
+
+CREATE TABLE `Note` (
+  `Noteid` int,
+  `NotenTypid` int,
+  `Kursid` int,
+  `Schuelerid` int,
+  `NoteInProzent` int,
+  `erstesHalbjahr` bool,
+  `zweitesHalbjahr` bool
+);
+
+CREATE TABLE `NotenTyp` (
+  `NotenTypid` int,
+  `Bezeichnung` varchar(255),
+);
+
+
+ALTER TABLE `Account` ADD FOREIGN KEY (`Accountid`) REFERENCES `Person` (`Accountid`);
+
+ALTER TABLE `Lehrer` ADD FOREIGN KEY (`Personid`) REFERENCES `Person` (`Personid`);
+
+ALTER TABLE `Schueler` ADD FOREIGN KEY (`Personid`) REFERENCES `Person` (`Personid`);
+
+ALTER TABLE `Schueler` ADD FOREIGN KEY (`Klasseid`) REFERENCES `Klasse` (`Klasseid`);
+
+ALTER TABLE `Note` ADD FOREIGN KEY (`NotenTypid`) REFERENCES `NotenTyp` (`NotenTypid`);
+
+ALTER TABLE `Schueler_belegt_kurs` ADD FOREIGN KEY (`Schuelerid`) REFERENCES `Schueler` (`Schuelerid`);
+
+ALTER TABLE `Schueler_belegt_kurs` ADD FOREIGN KEY (`Kursid`) REFERENCES `Kurs` (`Kursid`);
+
+ALTER TABLE `Kurs` ADD FOREIGN KEY (`Fachid`) REFERENCES `Fach` (`Fachid`);
+
+ALTER TABLE `Kurs` ADD FOREIGN KEY (`Lehrerid`) REFERENCES `Lehrer` (`Lehrerid`);
+
+ALTER TABLE `Kurs` ADD FOREIGN KEY (`Notenschluesselid`) REFERENCES `Notenschluessel` (`Notenschluesselid`);
+
+ALTER TABLE `Note` ADD FOREIGN KEY (`Schuelerid`) REFERENCES `Schueler` (`Schuelerid`);
+
+ALTER TABLE `Note` ADD FOREIGN KEY (`Kursid`) REFERENCES `Kurs` (`Kursid`);

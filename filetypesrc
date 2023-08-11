@@ -1,0 +1,4 @@
+[EmbedSettings]
+embed-application/vnd.apple.mpegurl=false
+embed-text/plain=false
+embed-video/mp4=false

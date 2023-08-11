@@ -1,0 +1,33 @@
+
+--Gib alle Schüler in Klasse '10a' aus:
+SELECT Schueler.Schuelerid, Person.Vorname, Person.Nachname
+FROM Schueler
+JOIN Person ON Schueler.Personid = Person.Personid
+JOIN Klasse ON Schueler.Klasseid = Klasse.Klasseid
+WHERE Klasse.Name = '10a';
+
+--Gib den Namen des Faches und die Noten für alle Schüler in Kurs 1 aus:
+SELECT Fach.Name, Note.NoteInProzent
+FROM Note
+JOIN Kurs ON Note.Kursid = Kurs.Kursid
+JOIN Fach ON Kurs.Fachid = Fach.Fachid
+WHERE Kurs.Kursid = 1;
+
+--Gib die Notenschlüssel-IDs, bei denen Klausuren mit einem Gewicht von 40% bewertet werden:
+SELECT Notenschluesselid
+FROM Notenschluessel
+WHERE KlausurNoteGewichtungProzent = 40;
+
+--Gib alle Lehrer und ihre zugehörigen Kurse aus:
+SELECT Lehrer.Lehrerid, Person.Vorname, Person.Nachname, Kurs.Kursid, Fach.Name
+FROM Lehrer
+JOIN Person ON Lehrer.Personid = Person.Personid
+JOIN Kurs ON Lehrer.Lehrerid = Kurs.Lehrerid
+JOIN Fach ON Kurs.Fachid = Fach.Fachid;
+
+--Gib alle Schüler mit einer Note von mindestens 80% in Klausuren im zweiten Halbjahr aus:
+SELECT Schueler.Schuelerid, Person.Vorname, Person.Nachname, Note.NoteInProzent
+FROM Schueler
+JOIN Person ON Schueler.Personid = Person.Personid
+Join Note ON Note.Schuelerid = Schueler.Schuelerid
+WHERE Note.NotenTypid = 1 AND Note.zweitesHalbjahr = 1 AND Note.NoteInProzent >= 80;

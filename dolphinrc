@@ -1,0 +1,34 @@
+MenuBar=Disabled
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[ContextMenu]
+ShowCopyMoveMenu=true
+
+[DetailsMode]
+DirectorySizeCount=false
+RecursiveDirectorySizeLimit=11
+UseShortRelativeDates=false
+
+[General]
+BrowseThroughArchives=true
+Version=202
+ViewPropsTimestamp=2023,3,10,13,1,49.181
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[KPropertiesDialog]
+3072x1920 screen: Height=814
+3072x1920 screen: Width=798
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,textthumbnail
+
+[Search]
+What=Content

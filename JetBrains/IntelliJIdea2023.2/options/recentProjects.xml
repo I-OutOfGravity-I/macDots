@@ -1,0 +1,91 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – index.html" projectWorkspaceId="2O4L4jnM4CqtCbs181o0Xe4RroJ">
+              <option name="activationTimestamp" value="1681970695111" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.8109.175" />
+              <option name="buildTimestamp" value="1680000294171" />
+              <frame x="-2" y="23" width="3076" height="1899" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1681970656373" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/demo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="demo – DemoApplication.java [demo.main]" projectWorkspaceId="2OmZfiWKgdFyJsk4AocYnrN0Hm0">
+              <option name="activationTimestamp" value="1682178245970" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.8109.175" />
+              <option name="buildTimestamp" value="1680000259206" />
+              <frame x="-2" y="23" width="3076" height="1899" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1682178145700" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Programmieren/Client">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Client" projectWorkspaceId="2OmuvPde0iILH3RflbSAPc7JuaW">
+              <option name="activationTimestamp" value="1682178336066" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.8109.175" />
+              <option name="buildTimestamp" value="1680000259206" />
+              <frame x="-2" y="23" width="3076" height="1899" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1682178313278" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Programmieren/Steam_Prices">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Steam_Prices – Client.py" projectWorkspaceId="2OmunM9xad3LgK51dFwZbZVCcZG">
+              <option name="activationTimestamp" value="1682257135123" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.8109.175" />
+              <option name="buildTimestamp" value="1680000246717" />
+              <frame x="-2" y="23" width="3076" height="1899" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1682257092288" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/ReactioTimeGameWebapp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ReactioTimeGameWebapp – index.html" projectWorkspaceId="2Og87UZ0EfvUudQJgI3PixagLo9">
+              <option name="activationTimestamp" value="1682416488142" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.8109.175" />
+              <option name="buildTimestamp" value="1680000280892" />
+              <frame x="-2" y="23" width="3076" height="1899" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1682443307781" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Programmieren/Inventory">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Inventory – Client.py" opened="true" projectWorkspaceId="2OqcKB2slAacpSQ9owbIxlw2OT3">
+              <option name="activationTimestamp" value="1691742567632" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.8109.175" />
+              <option name="buildTimestamp" value="1680000297428" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo />
+              </option>
+              <frame x="0" y="20" width="1536" height="939" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1691741713078" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/Programmieren/Inventory" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/Programmieren" />
+  </component>
+</application>

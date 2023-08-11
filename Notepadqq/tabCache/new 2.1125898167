@@ -1,0 +1,82 @@
+
+-- Füge Testdaten ein
+-- Accounts
+INSERT INTO Account (Benutzername, Password) VALUES
+  ('lehrer1', 'geheim'),
+  ('schueler1', 'passwort'),
+  ('Hans', 'peter'),
+  ('nice', 'asd'),
+  ('mau', '123'),
+  ('hallo', '234');
+
+-- Personen
+INSERT INTO Person (Accountid, Vorname, Nachname, Geschlecht) VALUES
+  (1, 'Max', 'Mustermann', 'm'),
+  (2, 'Sabine', 'Schulze', 'w'),
+  (3, 'Fredderik', 'Baum', 'm'),
+  (4, 'Kahl', 'Baumman', 'w'),
+  (5, 'Bella', 'Poarch', 'w'),
+  (6, 'Jesus', 'Pepe', 'm');
+
+-- Lehrer
+INSERT INTO Lehrer (Personid) VALUES (1);
+
+-- Klassen
+INSERT INTO Klasse (Jahrgang, Name) VALUES
+  (10, '10a'),
+  (10, '10b');
+
+-- Testdaten für Schueler-Tabelle
+INSERT INTO Schueler (Personid, Klasseid) VALUES 
+(3, 1),
+(4, 1),
+(5, 2),
+(6, 2);
+
+-- Testdaten für Lehrer-Tabelle
+INSERT INTO Lehrer (Personid) VALUES 
+(1),
+(2);
+
+-- Testdaten für Fach-Tabelle
+INSERT INTO Fach (name, Beschreibung) VALUES 
+('Mathe', 'Mathematik'),
+('Deutsch', 'Deutsche Sprache'),
+('Englisch', 'Englische Sprache');
+
+-- Testdaten für Notenschluessel-Tabelle
+INSERT INTO Notenschluessel (SomiNoteGewichtungProzent, KlausurNoteGewichtungProzent) VALUES 
+(50, 50),
+(60, 40),
+(70, 30);
+
+-- Testdaten für Kurs-Tabelle
+INSERT INTO Kurs (Lehrerid, Fachid, Jahrgang, Notenschluesselid) VALUES 
+(1, 1, 10, 1),
+(2, 2, 11, 2);
+
+-- Testdaten für NotenTyp-Tabelle
+INSERT INTO NotenTyp (Bezeichnung) VALUES 
+('Klausur'),
+('Mündliche Prüfung'),
+('Hausaufgaben');
+
+-- Testdaten für Schueler_belegt_Kurs-Tabelle
+INSERT INTO Schueler_belegt_Kurs (Schuelerid, Kursid) VALUES 
+(1,1),
+(2,2),
+(3,1),
+(4,2);
+
+-- Testdaten für Note-Tabelle
+INSERT INTO Note (NotenTypid, Schueler_belegt_Kursid, NoteInProzent, erstesHalbjahr, zweitesHalbjahr, Jahrgang) VALUES 
+(1, 1, 99, 1, 0, 10),
+(1, 2, 80, 1, 0, 10),
+(1, 3, 85, 0, 1, 11),
+(1, 4, 90, 0, 1, 11),
+(2, 1, 70, 1, 0, 10),
+(2, 2, 75, 1, 0, 10),
+(2, 3, 80, 0, 1, 11),
+(2, 4, 85, 0, 1, 11),
+(3, 1, 90, 1, 0, 10),
+(3, 2, 95, 1, 0, 10);

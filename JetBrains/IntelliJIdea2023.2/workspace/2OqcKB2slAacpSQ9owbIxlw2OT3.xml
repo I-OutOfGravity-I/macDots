@@ -1,0 +1,322 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Inventory" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="test@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="test@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="test: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="test@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="test: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 3 table (host: schema test)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="test@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="test: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 3 table (host: schema test)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="steam_items: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="test@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="test: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 3 table (host: schema test)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="zuweisung: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controller.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="das://54845bf2-c8a7-4fed-9d38-d28c9af2f72a/user/user@&amp;at;localhost.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="das://54845bf2-c8a7-4fed-9d38-d28c9af2f72a/dv.virtualview/sessions">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state lastOpenedTimestamp="1691742407308" presentationMode="TABLE" projectRestartId="94a6e149-231b-49e2-9e5a-b1e069e38c27" pageSize="500">
+              <filtering />
+              <sorting />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Database Element">
+      <summary usageCount="6" lastUsed="1691742408937" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="43" lastUsed="1691741656494" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="6" lastUsed="1691742407213" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="10" lastUsed="1691742409463" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>app</find>
+      <find>hea</find>
+      <find>Anfrage</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Client.py" />
+      <option value="$PROJECT_DIR$/ProxyTest.py" />
+      <option value="$PROJECT_DIR$/Controller.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="43" lastUsage="1691741656494" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="6" lastUsage="1691742407213" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="10" lastUsage="1691742409463" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Inventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/OutOfGravity/Desktop/Programmieren/Inventory}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19082000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Commit" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.32641107" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33022887" />
+      <window_info anchor="bottom" id="Python Packages" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.33022887" />
+      <window_info anchor="bottom" id="Services" order="6" weight="0.33022887" />
+      <window_info active="true" anchor="right" id="Notifications" order="0" visible="true" weight="0.3251953" />
+      <window_info anchor="right" id="Database" order="1" weight="0.3251953" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="5" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="6" weight="0.16324869" />
+      <unified_weights bottom="0.32641107" left="0.32991534" right="0.3251953" />
+    </layoutV2>
+    <recentWindows>
+      <value>Problems View</value>
+      <value>Notifications</value>
+      <value>Database</value>
+      <value>Run</value>
+      <value>Services</value>
+      <value>Terminal</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="297" width="345" height="312" key="#Custom_Plugin_Repositories.ideScale=175" timestamp="1691742563788">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="594" y="297" width="345" height="312" key="#Custom_Plugin_Repositories.ideScale=175/0.0.1536.960@0.0.1536.960" timestamp="1691742563788" />
+    <state x="927" y="401" width="1207" height="1096" key="#Notifications.ideScale=175" timestamp="1684325772102">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="927" y="401" width="1207" height="1096" key="#Notifications.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1684325772102" />
+    <state x="373" y="-14" width="2308" height="1854" key="#Project_Structure.ideScale=175" timestamp="1683359806978">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="373" y="-14" width="2308" height="1854" key="#Project_Structure.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1683359806978" />
+    <state x="1077" y="531" width="889" height="719" key="#Updates.ideScale=175" timestamp="1684326402153">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="1077" y="531" width="889" height="719" key="#Updates.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1684326402153" />
+    <state x="884" y="319" width="1318" height="1327" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=175" timestamp="1687171960569">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="884" y="319" width="1318" height="1327" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1687171960569" />
+    <state x="654" y="178" width="1858" height="1492" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.ideScale=175" timestamp="1683359796789">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="654" y="178" width="1858" height="1492" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1683359796789" />
+    <state x="621" y="192" width="1804" height="1370" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.ideScale=175" timestamp="1691741406387">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="621" y="192" width="1804" height="1370" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1691741406387" />
+    <state x="1046" y="374" width="958" height="1042" key="FileChooserDialogImpl.ideScale=175" timestamp="1691741604619">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state x="1046" y="374" width="958" height="1042" key="FileChooserDialogImpl.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1691741604619" />
+    <state width="2888" height="525" key="GridCell.Tab.0.bottom.ideScale=175" timestamp="1683368023436">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state width="2888" height="525" key="GridCell.Tab.0.bottom.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1683368023436" />
+    <state width="2888" height="525" key="GridCell.Tab.0.center.ideScale=175" timestamp="1683368023435">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state width="2888" height="525" key="GridCell.Tab.0.center.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1683368023435" />
+    <state width="2888" height="525" key="GridCell.Tab.0.left.ideScale=175" timestamp="1683368023435">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state width="2888" height="525" key="GridCell.Tab.0.left.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1683368023435" />
+    <state width="2888" height="525" key="GridCell.Tab.0.right.ideScale=175" timestamp="1683368023435">
+      <screen x="0" y="0" width="3072" height="1920" />
+    </state>
+    <state width="2888" height="525" key="GridCell.Tab.0.right.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1683368023435" />
+    <state x="975" y="551" width="525" height="329" key="ProcessPopupWindow.ideScale=175" timestamp="1691742205417">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="975" y="551" width="525" height="329" key="ProcessPopupWindow.ideScale=175/0.0.1536.960@0.0.1536.960" timestamp="1691742205417" />
+    <state x="0" y="-25" width="1536" height="960" key="SettingsEditor.ideScale=175" timestamp="1691742567613">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="0" y="-25" width="1536" height="960" key="SettingsEditor.ideScale=175/0.0.1536.960@0.0.1536.960" timestamp="1691742567613" />
+    <state x="303" y="-51" width="2308" height="1854" key="SettingsEditor.ideScale=175/0.0.3072.1920@0.0.3072.1920" timestamp="1691741692781" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ProxyTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://54845bf2-c8a7-4fed-9d38-d28c9af2f72a/user/user@&amp;at;localhost.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://54845bf2-c8a7-4fed-9d38-d28c9af2f72a/dv.virtualview/sessions">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1691742407308" presentationMode="TABLE" projectRestartId="94a6e149-231b-49e2-9e5a-b1e069e38c27" pageSize="500">
+          <filtering />
+          <sorting />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python|Inventory</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Python 3.10 (Inventory)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

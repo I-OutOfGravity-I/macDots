@@ -1,0 +1,11 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="IU-231.8109.175" />
+    <option name="LAST_TIME_CHECKED" value="1691741733834" />
+    <option name="PLUGINS_CHECK_NEEDED" value="false" />
+    <option name="SHOW_WHATS_NEW_EDITOR" value="false" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="eap" />
+    <option name="WHATS_NEW_SHOWN_FOR" value="231" />
+  </component>
+</application>

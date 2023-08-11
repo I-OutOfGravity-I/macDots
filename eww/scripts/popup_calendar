@@ -1,0 +1,8 @@
+#!/bin/sh
+eww="eww -c $HOME/.config/eww/"
+
+$eww close calendar || (\
+    $eww update day="`./time_info --day`"; \
+    $eww update month="`./time_info --month`"; \
+    $eww update year="`./time_info --year`"; \
+    $eww open calendar ) 

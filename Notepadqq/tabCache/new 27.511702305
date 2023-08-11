@@ -1,0 +1,398 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.72,0:00:01.85,Default,,0,0,0,,!Get lost
+Dialogue: 0,0:00:02.35,0:00:04.35,Default,,0,0,0,,I will not give you that key no matter what!
+Dialogue: 0,0:00:04.35,0:00:07.27,Default,,0,0,0,,And don't think I'll show you how to use it!
+Dialogue: 0,0:00:07.27,0:00:12.28,Default,,0,0,0,,{\3c&H0000A1&}Hyotoku
+Dialogue: 0,0:00:08.15,0:00:09.36,Default,,0,0,0,,what is happening?
+Dialogue: 0,0:00:09.36,0:00:12.28,Default,,0,0,0,,Are they fighting or something?
+Dialogue: 0,0:00:12.65,0:00:15.70,Default,,0,0,0,,What do I do? Eavesdropping on others! is not a good trait
+Dialogue: 0,0:00:15.70,0:00:19.20,Default,,0,0,0,,But I have to try to resolve their disagreement if they are fighting
+Dialogue: 0,0:00:24.67,0:00:26.67,Default,,0,0,0,,!to stop
+Dialogue: 0,0:00:27.29,0:00:29.75,Default,,0,0,0,,What do you think you are doing? Get your hand off him!
+Dialogue: 0,0:00:30.67,0:00:33.09,Default,,0,0,0,,Your voice is very annoying
+Dialogue: 0,0:00:33.72,0:00:34.76,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:00:34.76,0:00:36.89,Default,,0,0,0,,How could you do this to a child?
+Dialogue: 0,0:00:36.89,0:00:38.14,Default,,0,0,0,,—farthest hand
+Dialogue: 0,0:00:39.72,0:00:41.64,Default,,0,0,0,,It doesn't even budge!
+Dialogue: 0,0:00:42.18,0:00:43.81,Default,,0,0,0,,.His arms are thinner than mine
+Dialogue: 0,0:00:43.81,0:00:45.81,Default,,0,0,0,,And not bigger than me in size
+Dialogue: 0,0:00:46.31,0:00:48.77,Default,,0,0,0,,You are the one who should take his hand away from me
+Dialogue: 0,0:00:51.73,0:00:53.69,Default,,0,0,0,,.you're weak
+Dialogue: 0,0:00:53.69,0:00:56.32,Default,,0,0,0,,I wonder how you got into the Demon Slayer Corps
+Dialogue: 0,0:00:56.95,0:00:57.99,Default,,0,0,0,,What?
+Dialogue: 0,0:00:58.87,0:01:01.91,Default,,0,0,0,,I have a strange feeling about that box
+Dialogue: 0,0:01:02.24,0:01:04.25,Default,,0,0,0,,Is it the presence of a demon?
+Dialogue: 0,0:01:05.00,0:01:06.87,Default,,0,0,0,,What's in it?
+Dialogue: 0,0:01:06.87,0:01:08.38,Default,,0,0,0,,.show me
+Dialogue: 0,0:01:08.96,0:01:10.96,Default,,0,0,0,,Don't ever touch it!
+Dialogue: 0,0:02:41.84,0:02:47.02,Default,,0,0,0,,{\fad(1000,0)}:Episode 2 {\fs30}Yourishti Class Zero\h\h\h\h\h\h\h\h
+Dialogue: 0,0:02:50.39,0:02:52.77,Default,,0,0,0,,{\3c&H0000A1&}Hyotoku
+Dialogue: 0,0:02:53.36,0:02:54.52,Default,,0,0,0,,.he took it
+Dialogue: 0,0:02:54.52,0:02:55.57,Default,,0,0,0,,Are you well?
+Dialogue: 0,0:02:55.57,0:02:57.15,Default,,0,0,0,,D-Let me!
+Dialogue: 0,0:02:57.48,0:02:59.78,Default,,0,0,0,,You must be feeling dizzy. This is dangerous
+Dialogue: 0,0:02:59.78,0:03:01.16,Default,,0,0,0,,!Get away from me
+Dialogue: 0,0:03:01.45,0:03:04.24,Default,,0,0,0,,I won't... I won't give that key to anyone!
+Dialogue: 0,0:03:04.24,0:03:06.62,Default,,0,0,0,,Not even if you torture me! impossible
+Dialogue: 0,0:03:06.62,0:03:08.91,Default,,0,0,0,,It will break if it is turned on even one more time
+Dialogue: 0,0:03:09.25,0:03:11.79,Default,,0,0,0,,Have you ever undergone torture training?
+Dialogue: 0,0:03:13.54,0:03:17.67,Default,,0,0,0,,Even most adults can't handle it. It won't last long
+Dialogue: 0,0:03:18.01,0:03:21.18,Default,,0,0,0,,It is clear to me that your stupidity knows no bounds
+Dialogue: 0,0:03:21.93,0:03:25.72,Default,,0,0,0,,What if it breaks? .just make another one
+Dialogue: 0,0:03:25.72,0:03:32.52,Default,,0,0,0,,How many people do you think will die while you gossip about nonstop?
+Dialogue: 0,0:03:34.06,0:03:37.82,Default,,0,0,0,,This is what it means to obstruct Hashira while he is performing his duty
+Dialogue: 0,0:03:37.82,0:03:42.28,Default,,0,0,0,,A hashira's time is worth much more than the time you spend
+Dialogue: 0,0:03:42.57,0:03:45.16,Default,,0,0,0,,You'll understand this if you just think a little bit, don't you agree?
+Dialogue: 0,0:03:45.16,0:03:47.28,Default,,0,0,0,,Swordsmiths cannot fight
+Dialogue: 0,0:03:47.28,0:03:49.54,Default,,0,0,0,,You cannot save lives
+Dialogue: 0,0:03:49.54,0:03:52.37,Default,,0,0,0,,Because making weapons is all you are good at
+Dialogue: 0,0:03:54.08,0:03:55.08,Default,,0,0,0,,.this is
+Dialogue: 0,0:03:55.08,0:03:56.34,Default,,0,0,0,,.give me the key
+Dialogue: 0,0:03:56.34,0:03:59.67,Default,,0,0,0,,Remember your position every time you take a step
+Dialogue: 0,0:03:59.67,0:04:01.80,Default,,0,0,0,,Because you are not a child anymore
+Dialogue: 0,0:04:05.89,0:04:07.81,Default,,0,0,0,,What do you do?
+Dialogue: 0,0:04:07.81,0:04:09.01,Default,,0,0,0,,...just me
+Dialogue: 0,0:04:09.01,0:04:10.31,Default,,0,0,0,,...I don't know why, but
+Dialogue: 0,0:04:10.31,0:04:11.85,Default,,0,0,0,,I can't stand you at all!
+Dialogue: 0,0:04:11.85,0:04:13.85,Default,,0,0,0,,What is it? Observance, perhaps?
+Dialogue: 0,0:04:13.85,0:04:16.65,Default,,0,0,0,,You are so inconsiderate and cruel!
+Dialogue: 0,0:04:17.15,0:04:20.07,Default,,0,0,0,,...you think that's harsh? You
+Dialogue: 0,0:04:20.07,0:04:21.74,Default,,0,0,0,,I'm not wrong!
+Dialogue: 0,0:04:21.74,0:04:24.70,Default,,0,0,0,,I admit that most of what you said is true in its entirety
+Dialogue: 0,0:04:24.70,0:04:26.70,Default,,0,0,0,,But it's also probably wrong
+Dialogue: 0,0:04:26.95,0:04:28.95,Default,,0,0,0,,...but being a swordsmith
+Dialogue: 0,0:04:28.95,0:04:30.79,Default,,0,0,0,,It is an important and vital work
+Dialogue: 0,0:04:33.21,0:04:37.08,Default,,0,0,0,,Swordsmiths have amazing skills! Completely different from ours
+Dialogue: 0,0:04:37.08,0:04:39.96,Default,,0,0,0,,Because if they're not there, they'll hammer our swords
+Dialogue: 0,0:04:39.96,0:04:42.30,Default,,0,0,0,,We wouldn't be able to do anything, right?
+Dialogue: 0,0:04:43.55,0:04:47.76,Default,,0,0,0,,Swordsmen and swordsmiths need each other!
+Dialogue: 0,0:04:47.76,0:04:50.06,Default,,0,0,0,,We are all fighting the same battle!
+Dialogue: 0,0:04:50.06,0:04:52.27,Default,,0,0,0,,Day by day, each in his own way—we fight to
+Dialogue: 0,0:04:52.27,0:04:53.02,Default,,0,0,0,,...Sorry
+Dialogue: 0,0:04:54.10,0:04:57.86,Default,,0,0,0,,But I don't have time to stand here and listen to your boring speech
+Dialogue: 0,0:05:02.82,0:05:06.57,Default,,0,0,0,,What do I do? Can I carry it down on my own?
+Dialogue: 0,0:05:06.57,0:05:08.99,Default,,0,0,0,,.no. I will carry it
+Dialogue: 0,0:05:08.99,0:05:11.29,Default,,0,0,0,,.that is, as long as he doesn't regain consciousness soon
+Dialogue: 0,0:05:11.29,0:05:14.12,Default,,0,0,0,,!What? His eyelids are twitching
+Dialogue: 0,0:05:14.12,0:05:15.79,Default,,0,0,0,,He will wake up!
+Dialogue: 0,0:05:15.79,0:05:16.71,Default,,0,0,0,,!See you soon
+Dialogue: 0,0:05:16.71,0:05:17.88,Default,,0,0,0,,!What? hey
+Dialogue: 0,0:05:19.84,0:05:21.96,Default,,0,0,0,,Excuse me... are you okay?
+Dialogue: 0,0:05:21.96,0:05:23.76,Default,,0,0,0,,You don't have to get up quickly
+Dialogue: 0,0:05:23.76,0:05:25.38,Default,,0,0,0,,Was Haganzuka-san here?
+Dialogue: 0,0:05:25.38,0:05:25.80,Default,,0,0,0,,What?
+Dialogue: 0,0:05:25.80,0:05:27.80,Default,,0,0,0,,Wasn't he here a while ago?
+Dialogue: 0,0:05:27.80,0:05:30.51,Default,,0,0,0,,No, it wasn't
+Dialogue: 0,0:05:32.47,0:05:35.18,Default,,0,0,0,,.So if. I was just imagining
+Dialogue: 0,0:05:35.52,0:05:36.98,Default,,0,0,0,,Where is that hashira?
+Dialogue: 0,0:05:36.98,0:05:40.06,Default,,0,0,0,,He left after I handed him the key
+Dialogue: 0,0:05:40.06,0:05:42.07,Default,,0,0,0,,So you handed it over to him?
+Dialogue: 0,0:05:42.07,0:05:44.44,Default,,0,0,0,,I know you had no choice
+Dialogue: 0,0:05:44.44,0:05:49.41,Default,,0,0,0,,I shouldn't talk about it, since I don't know what's going on
+Dialogue: 0,0:05:49.41,0:05:51.49,Default,,0,0,0,,No, don't say that
+Dialogue: 0,0:05:51.49,0:05:52.99,Default,,0,0,0,,That made me happy
+Dialogue: 0,0:05:52.99,0:05:55.50,Default,,0,0,0,,You defended me even though I am a stranger to you
+Dialogue: 0,0:05:55.83,0:05:57.71,Default,,0,0,0,,!Thank you very much
+Dialogue: 0,0:05:57.71,0:06:00.58,Default,,0,0,0,,!No no. I didn't help you at all
+Dialogue: 0,0:06:01.96,0:06:05.01,Default,,0,0,0,,Where is that guy or whatever he was standing there?
+Dialogue: 0,0:06:05.01,0:06:07.05,Default,,0,0,0,,.that was a mechanical doll
+Dialogue: 0,0:06:07.05,0:06:09.30,Default,,0,0,0,,Mechanical doll?
+Dialogue: 0,0:06:09.30,0:06:11.85,Default,,0,0,0,,That man took her with him
+Dialogue: 0,0:06:12.22,0:06:16.52,Default,,0,0,0,,He needed the key to make the doll move
+Dialogue: 0,0:06:17.31,0:06:19.56,Default,,0,0,0,,It is really important to you
+Dialogue: 0,0:06:20.60,0:06:23.32,Default,,0,0,0,,But why would the Hashira need it?
+Dialogue: 0,0:06:23.32,0:06:25.78,Default,,0,0,0,,.This doll is special
+Dialogue: 0,0:06:25.78,0:06:34.79,Default,,0,0,0,,{\an9}Yoriichi Class Zero Mechanical Puppet
+Dialogue: 0,0:06:26.11,0:06:31.91,Default,,0,0,0,,This mechanical puppet can overpower a human, and is capable of performing 108 moves.
+Dialogue: 0,0:06:31.91,0:06:34.79,Default,,0,0,0,,.Can be used to train in combat
+Dialogue: 0,0:06:35.33,0:06:37.08,Default,,0,0,0,,...this is the reason
+Dialogue: 0,0:06:37.08,0:06:38.25,Default,,0,0,0,,...but
+Dialogue: 0,0:06:38.25,0:06:39.75,Default,,0,0,0,,...it's now
+Dialogue: 0,0:06:43.00,0:06:44.09,Default,,0,0,0,,what was that?
+Dialogue: 0,0:06:44.09,0:06:46.01,Default,,0,0,0,,...that guy must have
+Dialogue: 0,0:06:46.01,0:06:47.72,Default,,0,0,0,,!from here
+Dialogue: 0,0:06:54.51,0:06:55.18,Default,,0,0,0,,{\an4}destroy
+Dialogue: 0,0:06:58.18,0:06:59.81,Default,,0,0,0,,...in front of Hashira
+Dialogue: 0,0:06:59.81,0:07:01.02,Default,,0,0,0,,!It is amazing
+Dialogue: 0,0:07:01.02,0:07:05.02,Default,,0,0,0,,.that is the mechanical doll my ancestors made
+Dialogue: 0,0:07:05.02,0:07:07.19,Default,,0,0,0,,.Yoriichi class zero
+Dialogue: 0,0:07:08.44,0:07:09.36,Default,,0,0,0,,...but
+Dialogue: 0,0:07:09.36,0:07:11.16,Default,,0,0,0,,Why do you have six arms?
+Dialogue: 0,0:07:11.16,0:07:12.74,Default,,0,0,0,,her arms?
+Dialogue: 0,0:07:12.74,0:07:18.87,Default,,0,0,0,,According to my dad, that puppet is based on a real swordsman
+Dialogue: 0,0:07:18.87,0:07:24.25,Default,,0,0,0,,But it was not possible to copy his movements. Unless the puppet was given six arms
+Dialogue: 0,0:07:26.30,0:07:27.92,Default,,0,0,0,,...that face
+Dialogue: 0,0:07:28.26,0:07:31.55,Default,,0,0,0,,It looks familiar to me and I'm not sure why
+Dialogue: 0,0:07:31.55,0:07:34.51,Default,,0,0,0,,Who was that swordsman? What did he do and where?
+Dialogue: 0,0:07:34.80,0:07:38.02,Default,,0,0,0,,Excuse me, but I don't know much about him either
+Dialogue: 0,0:07:38.02,0:07:40.02,Default,,0,0,0,,He was born in the Sengoku era after all
+Dialogue: 0,0:07:40.31,0:07:44.65,Default,,0,0,0,,Q-Sengoku? You mean he lived more than 300 years ago?
+Dialogue: 0,0:07:44.65,0:07:46.32,Default,,0,0,0,,.that's what I was told
+Dialogue: 0,0:07:46.32,0:07:50.19,Default,,0,0,0,,Why was that doll broken that whole time?
+Dialogue: 0,0:07:50.19,0:07:54.28,Default,,0,0,0,,The technology with which it was made is astonishing, and we can't fix it until today.
+Dialogue: 0,0:07:55.83,0:07:59.29,Default,,0,0,0,,There is no way to fix it if it breaks
+Dialogue: 0,0:08:00.54,0:08:04.00,Default,,0,0,0,,My father passed away suddenly, and I have no siblings
+Dialogue: 0,0:08:04.00,0:08:06.59,Default,,0,0,0,,Now I'm supposed to take charge
+Dialogue: 0,0:08:06.59,0:08:10.21,Default,,0,0,0,,...but since I don't understand swords or mechanical dolls
+Dialogue: 0,0:08:11.22,0:08:13.01,Default,,0,0,0,,...that's why you decided not to
+Dialogue: 0,0:08:13.34,0:08:15.22,Default,,0,0,0,,I totally get you
+Dialogue: 0,0:08:17.22,0:08:19.60,Default,,0,0,0,,.that guy is amazing
+Dialogue: 0,0:08:19.60,0:08:22.39,Default,,0,0,0,,...he's about my age
+Dialogue: 0,0:08:22.69,0:08:25.23,Default,,0,0,0,,.but he's a Hashira, and his talent is unparalleled
+Dialogue: 0,0:08:25.23,0:08:27.36,Default,,0,0,0,,What can you expect?
+Dialogue: 0,0:08:27.36,0:08:30.78,Default,,0,0,0,,He is the descendant of the master of the sun breathing technique above all
+Dialogue: 0,0:08:31.53,0:08:33.53,Default,,0,0,0,,That boy is a genius!
+Dialogue: 0,0:08:33.53,0:08:36.24,Default,,0,0,0,,He is on a completely different level than the likes of you!
+Dialogue: 0,0:08:38.28,0:08:40.37,Default,,0,0,0,,Are you Tokito-kun's crow?
+Dialogue: 0,0:08:40.37,0:08:44.17,Default,,0,0,0,,You meant sun breathing, first breathing technique?
+Dialogue: 0,0:08:44.17,0:08:46.58,Default,,0,0,0,,So, he's so amazing
+Dialogue: 0,0:08:49.25,0:08:51.96,Default,,0,0,0,,But the technique he's using isn't sun breathing, right?
+Dialogue: 0,0:08:51.96,0:08:52.97,Default,,0,0,0,,What?
+Dialogue: 0,0:08:54.51,0:08:57.47,Default,,0,0,0,,Shut your mouth or I'll gouge out your eyes!
+Dialogue: 0,0:08:57.80,0:08:59.56,Default,,0,0,0,,Hey, I remembered now
+Dialogue: 0,0:08:59.56,0:09:00.81,Default,,0,0,0,,That dream!
+Dialogue: 0,0:09:00.81,0:09:03.73,Default,,0,0,0,,I saw that man in a dream
+Dialogue: 0,0:09:03.73,0:09:06.65,Default,,0,0,0,,What? Are you stupid or something?
+Dialogue: 0,0:09:06.65,0:09:08.73,Default,,0,0,0,,Have you ever visited this village before?
+Dialogue: 0,0:09:08.73,0:09:11.23,Default,,0,0,0,,It's so absurd that you make me laugh
+Dialogue: 0,0:09:11.48,0:09:14.20,Default,,0,0,0,,You mean you met a Sengoku warrior?
+Dialogue: 0,0:09:14.20,0:09:16.99,Default,,0,0,0,,How old are you? absurdity
+Dialogue: 0,0:09:18.16,0:09:19.70,Default,,0,0,0,,.I'm sorry
+Dialogue: 0,0:09:19.70,0:09:21.87,Default,,0,0,0,,Something is wrong with me, right?
+Dialogue: 0,0:09:21.87,0:09:23.50,Default,,0,0,0,,!No no
+Dialogue: 0,0:09:24.04,0:09:27.00,Default,,0,0,0,,Maybe it was an inherited memory?
+Dialogue: 0,0:09:27.29,0:09:29.96,Default,,0,0,0,,People talk about it all the time in our village
+Dialogue: 0,0:09:29.96,0:09:32.92,Default,,0,0,0,,One does not just inherit physical characteristics
+Dialogue: 0,0:09:32.92,0:09:35.80,Default,,0,0,0,,But living creatures also inherit their memories
+Dialogue: 0,0:09:37.68,0:09:41.76,Default,,0,0,0,,What you saw in your dream must have been a memory of one of your ancestors
+Dialogue: 0,0:09:41.76,0:09:45.02,Default,,0,0,0,,This is impossible! This is impossible
+Dialogue: 0,0:09:46.02,0:09:48.27,Default,,0,0,0,,How kind! Thank you
+Dialogue: 0,0:09:48.27,0:09:49.27,Default,,0,0,0,,Then
+Dialogue: 0,0:09:49.27,0:09:50.52,Default,,0,0,0,,.I'm Tanjiro
+Dialogue: 0,0:09:50.52,0:09:51.90,Default,,0,0,0,,what is your name
+Dialogue: 0,0:09:52.23,0:09:53.90,Default,,0,0,0,,I am Kotsu
+Dialogue: 0,0:09:53.90,0:09:57.53,Default,,0,0,0,,Pay no attention to that horrible crow
+Dialogue: 0,0:10:05.33,0:10:07.41,Default,,0,0,0,,Break his shield
+Dialogue: 0,0:10:12.13,0:10:13.00,Default,,0,0,0,,Kotsu-kun!
+Dialogue: 0,0:10:23.35,0:10:24.56,Default,,0,0,0,,Kotsu-kun!
+Dialogue: 0,0:10:24.89,0:10:26.18,Default,,0,0,0,,Kotsu-kun!
+Dialogue: 0,0:10:26.52,0:10:28.02,Default,,0,0,0,,I will find you!
+Dialogue: 0,0:10:28.02,0:10:30.10,Default,,0,0,0,,I have an amazing sense of smell!
+Dialogue: 0,0:10:30.56,0:10:33.15,Default,,0,0,0,,.although she is not in a good condition now
+Dialogue: 0,0:10:33.40,0:10:35.65,Default,,0,0,0,,.I think he passed through here
+Dialogue: 0,0:10:39.74,0:10:40.99,Default,,0,0,0,,Kotsu-kun!
+Dialogue: 0,0:10:41.32,0:10:44.79,Default,,0,0,0,,You're so good at climbing on bushes, Kotsu-kun!
+Dialogue: 0,0:10:45.79,0:10:48.16,Default,,0,0,0,,If there's anything I can do for you, I'm ready to help
+Dialogue: 0,0:10:48.16,0:10:50.25,Default,,0,0,0,,You can't give up your doll!
+Dialogue: 0,0:10:51.63,0:10:53.71,Default,,0,0,0,,You have a promising future ahead of you!
+Dialogue: 0,0:10:55.38,0:10:58.30,Default,,0,0,0,,You have to do your best for your…your future self
+Dialogue: 0,0:10:58.30,0:11:00.26,Default,,0,0,0,,Ten or twenty years from now!
+Dialogue: 0,0:11:00.26,0:11:03.97,Default,,0,0,0,,One day you will be able to do what you can't do right now!
+Dialogue: 0,0:11:04.76,0:11:06.18,Default,,0,0,0,,!I will not do
+Dialogue: 0,0:11:06.52,0:11:09.77,Default,,0,0,0,,I don't need anyone else telling me I'm a loser!
+Dialogue: 0,0:11:09.77,0:11:14.40,Default,,0,0,0,,It will all end with my generation! It's all because of me
+Dialogue: 0,0:11:16.90,0:11:17.65,Default,,0,0,0,,!This painful
+Dialogue: 0,0:11:18.03,0:11:20.65,Default,,0,0,0,,You cannot give up and stop caring
+Dialogue: 0,0:11:20.65,0:11:23.91,Default,,0,0,0,,I hope you don't talk about yourself like that
+Dialogue: 0,0:11:24.49,0:11:28.16,Default,,0,0,0,,He came without making a sound. This is what swordsmen are capable of
+Dialogue: 0,0:11:28.50,0:11:30.21,Default,,0,0,0,,Even if you can't do it yourself
+Dialogue: 0,0:11:30.21,0:11:33.21,Default,,0,0,0,,There is always someone who will complete your work for you
+Dialogue: 0,0:11:33.21,0:11:36.09,Default,,0,0,0,,You have to do what you can to pass it on to future generations
+Dialogue: 0,0:11:36.42,0:11:41.18,Default,,0,0,0,,Even if it's beyond your powers, maybe your children or grandchildren will find a way
+Dialogue: 0,0:11:42.05,0:11:45.85,Default,,0,0,0,,I want to defeat Kibutsuji Muzan
+Dialogue: 0,0:11:46.18,0:11:49.81,Default,,0,0,0,,.I want to save my sister who has turned into a demon
+Dialogue: 0,0:11:50.27,0:11:52.90,Default,,0,0,0,,.But I may die before achieving my goals
+Dialogue: 0,0:11:53.98,0:11:58.23,Default,,0,0,0,,But I believe that someone will definitely finish my work
+Dialogue: 0,0:11:58.57,0:12:03.20,Default,,0,0,0,,Just as we were able to defeat a demon of the higher ranks, with the other lives associated with us,
+Dialogue: 0,0:12:03.20,0:12:05.20,Default,,0,0,0,,Someday, for sure
+Dialogue: 0,0:12:05.20,0:12:09.20,Default,,0,0,0,,The lives we were bound by will overthrow Kibutsuji!
+Dialogue: 0,0:12:12.25,0:12:13.79,Default,,0,0,0,,Let's do our best together!
+Dialogue: 0,0:12:18.21,0:12:19.34,Default,,0,0,0,,...I am
+Dialogue: 0,0:12:19.34,0:12:23.63,Default,,0,0,0,,I didn't want to see the doll get destroyed, but now I've made up my mind
+Dialogue: 0,0:12:24.26,0:12:27.30,Default,,0,0,0,,Fighting training will continue until nightfall
+Dialogue: 0,0:12:27.30,0:12:29.77,Default,,0,0,0,,So I will hold on to myself and wait for it to end
+Dialogue: 0,0:12:29.77,0:12:30.89,Default,,0,0,0,,.Till the end
+Dialogue: 0,0:12:33.69,0:12:34.52,Default,,0,0,0,,actually?
+Dialogue: 0,0:12:34.85,0:12:36.69,Default,,0,0,0,,You're ten, Kotsu-kun?
+Dialogue: 0,0:12:36.69,0:12:37.65,Default,,0,0,0,,.Yes
+Dialogue: 0,0:12:37.90,0:12:39.73,Default,,0,0,0,,-My little brother was to
+Dialogue: 0,0:12:42.24,0:12:44.24,Default,,0,0,0,,What? Are you done?
+Dialogue: 0,0:12:45.41,0:12:46.66,Default,,0,0,0,,.I finished
+Dialogue: 0,0:12:46.99,0:12:49.12,Default,,0,0,0,,It was a fruitful training session
+Dialogue: 0,0:12:49.99,0:12:51.54,Default,,0,0,0,,And who are you?
+Dialogue: 0,0:12:51.87,0:12:53.50,Default,,0,0,0,,.right
+Dialogue: 0,0:12:53.75,0:12:55.75,Default,,0,0,0,,...my sword broke, so
+Dialogue: 0,0:12:56.88,0:13:00.00,Default,,0,0,0,,I will take this sword with me
+Dialogue: 0,0:13:02.84,0:13:03.84,Default,,0,0,0,,—Kototsu-kun
+Dialogue: 0,0:13:03.84,0:13:04.68,Default,,0,0,0,,!This painful
+Dialogue: 0,0:13:04.97,0:13:07.43,Default,,0,0,0,,.get rid of it for me
+Dialogue: 0,0:13:09.26,0:13:11.31,Default,,0,0,0,,Without a single shred of hatred
+Dialogue: 0,0:13:11.64,0:13:14.52,Default,,0,0,0,,He must not be doing it on purpose
+Dialogue: 0,0:13:14.98,0:13:16.73,Default,,0,0,0,,...But
+Dialogue: 0,0:13:20.07,0:13:23.19,Default,,0,0,0,,Those crows are furious
+Dialogue: 0,0:13:23.19,0:13:25.99,Default,,0,0,0,,She looks at me very condescendingly
+Dialogue: 0,0:13:27.28,0:13:28.78,Default,,0,0,0,,Kotsu-kun!
+Dialogue: 0,0:13:47.30,0:13:48.26,Default,,0,0,0,,...Kotsu-kun
+Dialogue: 0,0:13:48.72,0:13:50.14,Default,,0,0,0,,.let's make sure
+Dialogue: 0,0:13:50.14,0:13:52.22,Default,,0,0,0,,Let's see if it still works or not
+Dialogue: 0,0:14:04.82,0:14:06.53,Default,,0,0,0,,.nothing
+Dialogue: 0,0:14:06.53,0:14:08.07,Default,,0,0,0,,...it must be
+Dialogue: 0,0:14:16.12,0:14:18.87,Default,,0,0,0,,!Okay! It's working, Kotsu-kun
+Dialogue: 0,0:14:18.87,0:14:20.00,Default,,0,0,0,,—thank you
+Dialogue: 0,0:14:22.63,0:14:25.63,Default,,0,0,0,,It really works, Tanjiro-san
+Dialogue: 0,0:14:26.47,0:14:28.01,Default,,0,0,0,,I want you to practice with this dummy
+Dialogue: 0,0:14:28.01,0:14:32.76,Default,,0,0,0,,And you become stronger than that indifferent bastard! Whatever the cost
+Dialogue: 0,0:14:32.76,0:14:36.02,Default,,0,0,0,,I will support you with everything I have
+Dialogue: 0,0:14:38.85,0:14:40.77,Default,,0,0,0,,Do you mean now?
+Dialogue: 0,0:14:55.58,0:14:57.96,Default,,0,0,0,,!I will die! Six cubits is too many
+Dialogue: 0,0:14:57.96,0:14:59.21,Default,,0,0,0,,It's only five now!
+Dialogue: 0,0:14:59.71,0:15:03.63,Default,,0,0,0,,That bastard broke one of them, so it's less efficient now
+Dialogue: 0,0:15:05.67,0:15:08.38,Default,,0,0,0,,Please become stronger, Tanjiro-san
+Dialogue: 0,0:15:08.38,0:15:10.84,Default,,0,0,0,,...and that's what you'll tell him
+Dialogue: 0,0:15:10.84,0:15:13.26,Default,,0,0,0,,"Is that all you got, you trash?"
+Dialogue: 0,0:15:14.56,0:15:18.14,Default,,0,0,0,,Your hair is too long!” “Go cut it off, you algae head
+Dialogue: 0,0:15:18.14,0:15:20.90,Default,,0,0,0,,"You little! You're ugly and your legs are short!"
+Dialogue: 0,0:15:20.90,0:15:22.02,Default,,0,0,0,,"Cut off your stomach and give us rest!"
+Dialogue: 0,0:15:22.02,0:15:24.11,Default,,0,0,0,,"Shameless bastard!"
+Dialogue: 0,0:15:24.44,0:15:25.11,Default,,0,0,0,,!both
+Dialogue: 0,0:15:25.11,0:15:26.36,Default,,0,0,0,,!Kotsu-san
+Dialogue: 0,0:15:26.36,0:15:28.11,Default,,0,0,0,,You exaggerated too much!
+Dialogue: 0,0:15:28.11,0:15:30.36,Default,,0,0,0,,Better to show his head in public, right?
+Dialogue: 0,0:15:30.36,0:15:32.70,Default,,0,0,0,,!both! You can't say things like that
+Dialogue: 0,0:15:32.95,0:15:33.95,Default,,0,0,0,,You will say it to him!
+Dialogue: 0,0:15:33.95,0:15:34.83,Default,,0,0,0,,!both
+Dialogue: 0,0:15:34.83,0:15:36.20,Default,,0,0,0,,Say it please!
+Dialogue: 0,0:15:36.20,0:15:37.83,Default,,0,0,0,,!Please
+Dialogue: 0,0:15:43.13,0:15:45.38,Default,,0,0,0,,...without even saying it
+Dialogue: 0,0:15:45.38,0:15:47.46,Default,,0,0,0,,Tokito-kun is amazing!
+Dialogue: 0,0:15:47.46,0:15:50.88,Default,,0,0,0,,Although he is smaller than me in size and age
+Dialogue: 0,0:15:51.47,0:15:53.47,Default,,0,0,0,,I have to practice hard too!
+Dialogue: 0,0:15:53.47,0:15:55.89,Default,,0,0,0,,I have to get stronger too!
+Dialogue: 0,0:16:05.77,0:16:07.11,Default,,0,0,0,,!Tanjiro-san
+Dialogue: 0,0:16:07.11,0:16:09.61,Default,,0,0,0,,You're pathetic if that's enough to kill you!
+Dialogue: 0,0:16:09.61,0:16:10.78,Default,,0,0,0,,Keep doing your best!
+Dialogue: 0,0:16:10.78,0:16:13.53,Default,,0,0,0,,I will say it again! look at me
+Dialogue: 0,0:16:16.20,0:16:19.70,Default,,0,0,0,,You move like you're used to, right, Tanjiro-san?
+Dialogue: 0,0:16:21.25,0:16:24.58,Default,,0,0,0,,You don't decide how to move after observing your opponent's moves
+Dialogue: 0,0:16:24.58,0:16:26.09,Default,,0,0,0,,That's why I'm not cool!
+Dialogue: 0,0:16:26.09,0:16:27.29,Default,,0,0,0,,understand?
+Dialogue: 0,0:16:27.29,0:16:29.00,Default,,0,0,0,,In other words, you don't know the basics
+Dialogue: 0,0:16:29.00,0:16:32.30,Default,,0,0,0,,I'm really surprised you managed to survive this whole time in the Demon Slayer Corps!
+Dialogue: 0,0:16:32.30,0:16:34.39,Default,,0,0,0,,You could hardly manage with everything you did!
+Dialogue: 0,0:16:34.39,0:16:37.60,Default,,0,0,0,,I am here to denounce every weakness you have, before or after!
+Dialogue: 0,0:16:37.60,0:16:41.77,Default,,0,0,0,,I will never feed you until you can do everything I tell you!
+Dialogue: 0,0:16:43.98,0:16:45.15,Default,,0,0,0,,.Present
+Dialogue: 0,0:16:48.77,0:16:50.19,Default,,0,0,0,,You're slow, Tanjirou-san
+Dialogue: 0,0:16:50.19,0:16:51.69,Default,,0,0,0,,Fiasco!
+Dialogue: 0,0:16:52.07,0:16:55.03,Default,,0,0,0,,If that dummy wasn't carrying! training sticks, I'd be dead by now
+Dialogue: 0,0:16:55.03,0:16:56.57,Default,,0,0,0,,!calm yourself
+Dialogue: 0,0:16:56.99,0:16:58.45,Default,,0,0,0,,This is your fifth day!
+Dialogue: 0,0:16:58.45,0:17:01.66,Default,,0,0,0,,I'm giving the doll real swords starting tomorrow!
+Dialogue: 0,0:17:02.08,0:17:04.75,Default,,0,0,0,,No, even training sticks would kill me!
+Dialogue: 0,0:17:04.75,0:17:07.21,Default,,0,0,0,,!I will die
+Dialogue: 0,0:17:08.67,0:17:11.09,Default,,0,0,0,,You have no food today either
+Dialogue: 0,0:17:12.67,0:17:15.34,Default,,0,0,0,,This is Kotsu-san with great analytics!
+Dialogue: 0,0:17:15.34,0:17:19.39,Default,,0,0,0,,.but he's quite an amateur when it comes to haggling
+Dialogue: 0,0:17:15.72,0:17:18.43,Default,,0,0,0,,{\an8}!Come on, get up! Stand on your feet, please
+Dialogue: 0,0:17:18.43,0:17:20.39,Default,,0,0,0,,{\an8}!Wait a second! Just for a moment
+Dialogue: 0,0:17:19.39,0:17:23.23,Default,,0,0,0,,Since he has no idea of ​​the limits of human life
+Dialogue: 0,0:17:20.39,0:17:21.60,Default,,0,0,0,,{\an8}!Hey
+Dialogue: 0,0:17:23.23,0:17:25.39,Default,,0,0,0,,His training sessions were tough!
+Dialogue: 0,0:17:25.39,0:17:26.85,Default,,0,0,0,,...he is a tyrant
+Dialogue: 0,0:17:27.44,0:17:30.61,Default,,0,0,0,,He forbade me food and drink! Whenever I failed to live up to his requirements
+Dialogue: 0,0:17:30.90,0:17:35.07,Default,,0,0,0,,After about three days without water, any human being could die
+Dialogue: 0,0:17:36.20,0:17:37.87,Default,,0,0,0,,{\an7}A clear look
+Dialogue: 0,0:17:38.62,0:17:42.12,Default,,0,0,0,,Pure tyranny born of ignorance!
+Dialogue: 0,0:17:43.75,0:17:47.08,Default,,0,0,0,,Although I managed to survive by drinking rain water
+Dialogue: 0,0:17:49.21,0:17:51.96,Default,,0,0,0,,...throughout those horrible training sessions
+Dialogue: 0,0:17:51.96,0:17:53.55,Default,,0,0,0,,...I spent it without water
+Dialogue: 0,0:17:53.55,0:17:54.80,Default,,0,0,0,,...and no food
+Dialogue: 0,0:17:54.80,0:17:55.93,Default,,0,0,0,,And no sleep
+Dialogue: 0,0:18:01.01,0:18:04.48,Default,,0,0,0,,I began to feel that I was crossing the bridge of the afterlife river
+Dialogue: 0,0:18:05.56,0:18:09.90,Default,,0,0,0,,...I was walking on a bridge and overjoyed
+Dialogue: 0,0:18:10.19,0:18:12.27,Default,,0,0,0,,...but I felt dizzy with hunger
+Dialogue: 0,0:18:12.69,0:18:14.40,Default,,0,0,0,,I fell into the river
+Dialogue: 0,0:18:15.24,0:18:17.15,Default,,0,0,0,,...the water was dark
+Dialogue: 0,0:18:17.66,0:18:19.24,Default,,0,0,0,,...and heavy
+Dialogue: 0,0:18:19.74,0:18:21.41,Default,,0,0,0,,...but I felt
+Dialogue: 0,0:18:22.33,0:18:25.75,Default,,0,0,0,,As if there were warm hands massaging me
+Dialogue: 0,0:18:26.37,0:18:29.92,Default,,0,0,0,,I saw something shiny when I looked...at the bottom of the river
+Dialogue: 0,0:18:29.92,0:18:32.67,Default,,0,0,0,,I went down to get it, while those hands massaged me
+Dialogue: 0,0:18:34.51,0:18:35.67,Default,,0,0,0,,...and strangely
+Dialogue: 0,0:18:35.97,0:18:39.68,Default,,0,0,0,,I was able to smell a sparkling stone even under the water
+Dialogue: 0,0:18:44.22,0:18:45.31,Default,,0,0,0,,What is this?
+Dialogue: 0,0:18:45.31,0:18:46.56,Default,,0,0,0,,What is this smell?
+Dialogue: 0,0:18:47.14,0:18:49.65,Default,,0,0,0,,A different smell from the thread of the gaps
+Dialogue: 0,0:18:52.15,0:18:53.36,Default,,0,0,0,,Left header side!
+Dialogue: 0,0:18:53.90,0:18:54.78,Default,,0,0,0,,!neck
+Dialogue: 0,0:18:55.19,0:18:56.15,Default,,0,0,0,,Right side of the chest
+Dialogue: 0,0:18:56.57,0:18:57.74,Default,,0,0,0,,!The left side
+Dialogue: 0,0:18:58.28,0:18:59.53,Default,,0,0,0,,Right thigh
+Dialogue: 0,0:18:59.53,0:19:01.07,Default,,0,0,0,,Right shoulder
+Dialogue: 0,0:19:01.66,0:19:02.83,Default,,0,0,0,,will be attacked!
+Dialogue: 0,0:19:11.21,0:19:13.71,Default,,0,0,0,,You managed to hit her once, Tanjirou-san!
+Dialogue: 0,0:19:13.71,0:19:16.92,Default,,0,0,0,,Even though she was weak and the doll didn't even blink
+Dialogue: 0,0:19:17.21,0:19:18.67,Default,,0,0,0,,I'll give you some food
+Dialogue: 0,0:19:20.43,0:19:22.05,Default,,0,0,0,,I want rice balls with pickled plums!
+Dialogue: 0,0:19:22.05,0:19:24.68,Default,,0,0,0,,And I want high-quality Gyokuru tea!
+Dialogue: 0,0:19:29.02,0:19:33.19,Default,,0,0,0,,How delicious!
+Dialogue: 0,0:19:36.23,0:19:38.11,Default,,0,0,0,,!good! good
+Dialogue: 0,0:19:38.11,0:19:39.40,Default,,0,0,0,,I can see how you're going!
+Dialogue: 0,0:19:40.11,0:19:41.99,Default,,0,0,0,,I can see it better than before!
+Dialogue: 0,0:19:42.24,0:19:44.53,Default,,0,0,0,,I can keep up with her now that I've got my stamina back
+Dialogue: 0,0:19:47.50,0:19:51.17,Default,,0,0,0,,I can tell where you're going to hit by the smell!
+Dialogue: 0,0:19:55.59,0:19:56.67,Default,,0,0,0,,...I can smell this
+Dialogue: 0,0:19:57.09,0:19:59.76,Default,,0,0,0,,Before I could see the thread of holes!
+Dialogue: 0,0:20:04.68,0:20:06.18,Default,,0,0,0,,!good! I'll take a chance
+Dialogue: 0,0:20:06.60,0:20:08.68,Default,,0,0,0,,One hit with all my might!
+Dialogue: 0,0:20:10.18,0:20:12.06,Default,,0,0,0,,But what if it breaks?
+Dialogue: 0,0:20:14.69,0:20:16.32,Default,,0,0,0,,hit!
+Dialogue: 0,0:20:16.73,0:20:18.11,Default,,0,0,0,,I don't care if you're broken
+Dialogue: 0,0:20:18.65,0:20:21.32,Default,,0,0,0,,I will fix it no matter what!
+Dialogue: 0,0:20:24.11,0:20:26.66,Default,,0,0,0,,You're so cute, Tanjiro-san!
+Dialogue: 0,0:20:27.20,0:20:29.41,Default,,0,0,0,,You can't hesitate now!
+Dialogue: 0,0:20:30.29,0:20:33.37,Default,,0,0,0,,...But that's who you are, Tanjiro-san
+Dialogue: 0,0:20:33.37,0:20:34.92,Default,,0,0,0,,And I don't want you to die
+Dialogue: 0,0:20:36.00,0:20:36.92,Default,,0,0,0,,...if you seek
+Dialogue: 0,0:20:36.92,0:20:38.92,Default,,0,0,0,,To be stronger than anyone else!
+Dialogue: 0,0:20:44.01,0:20:45.14,Default,,0,0,0,,!This painful
+Dialogue: 0,0:20:45.72,0:20:48.14,Default,,0,0,0,,Tanjiro-san! Are you well?
+Dialogue: 0,0:20:48.35,0:20:49.47,Default,,0,0,0,,...This is very painful
+Dialogue: 0,0:20:49.47,0:20:53.64,Default,,0,0,0,,A-Sorry... I broke the sword you lent me
+Dialogue: 0,0:20:53.64,0:20:55.65,Default,,0,0,0,,!decent! Don't worry about it
+Dialogue: 0,0:21:04.28,0:21:05.41,Default,,0,0,0,,Something came out of it!
+Dialogue: 0,0:21:05.41,0:21:08.33,Default,,0,0,0,,K-Kotsu-kun! What is that thing that came out of her?
+Dialogue: 0,0:21:08.33,0:21:11.00,Default,,0,0,0,,!No no! I have no idea either
+Dialogue: 0,0:21:19.09,0:21:21.13,Default,,0,0,0,,What could it be?
+Dialogue: 0,0:21:21.13,0:21:22.01,Default,,0,0,0,,...at least
+Dialogue: 0,0:21:22.42,0:21:25.84,Default,,0,0,0,,It could be a sword that was over 300 years old, right?
+Dialogue: 0,0:23:00.06,0:23:00.52,Default,,0,0,0,,{\an7}Part 2
+Dialogue: 0,0:23:01.90,0:23:03.98,Default,,0,0,0,,You look great in that mask, Nezuko!
+Dialogue: 0,0:23:07.15,0:23:08.70,Default,,0,0,0,,Do you love her?
+Dialogue: 0,0:23:10.16,0:23:12.95,Default,,0,0,0,,Now it's time for the secret of the Taisho era!
+Dialogue: 0,0:23:12.95,0:23:15.16,Default,,0,0,0,,...apprentice swordsmith Kotsu-kun
+Dialogue: 0,0:23:15.16,0:23:18.62,Default,,0,0,0,,His real face is exactly like his mask
+Dialogue: 0,0:23:18.62,0:23:23.59,Default,,0,0,0,,So much so that it was suggested that there was no need for him to wear a mask in the first place
+Dialogue: 0,0:23:23.88,0:23:25.59,Default,,0,0,0,,He's ruthlessly blunt
+Dialogue: 0,0:23:25.59,0:23:29.09,Default,,0,0,0,,But I think he might be a good-hearted kid
+Dialogue: 0,0:23:30.38,0:23:34.10,Default,,0,0,0,,In the next third episode: “A Sword from Three Hundred Years Ago”
+Dialogue: 0,0:23:34.47,0:23:35.60,Default,,0,0,0,,!I feel hot
+Dialogue: 0,0:23:35.60,0:23:37.77,Default,,0,0,0,,Tanjiro-san! Where are you?
+Dialogue: 0,0:23:38.85,0:23:40.77,Default,,0,0,0,,We will start training now!
+Dialogue: 0,0:23:40.77,0:23:44.11,Default,,0,0,0,,If you slack off after you've had one good day, you'll be right back at the starting point
+Dialogue: 0,0:23:44.11,0:23:45.57,Default,,0,0,0,,"Persistence is the way to success!"
+Dialogue: 0,0:23:45.57,0:23:48.82,Default,,0,0,0,,The grasshopper and the ant! "whoever deliberates in his works gets whatever he looking for"
+Dialogue: 0,0:23:48.82,0:23:50.95,Default,,0,0,0,,Tanjiro-san! Where are you?
+Dialogue: 0,0:23:51.24,0:23:53.07,Default,,0,0,0,,Let's get out of here, Nezuko!
+Dialogue: 0,0:23:51.49,0:23:53.82,Default,,0,0,0,,{\an8}Tanjiro-san! Where are you?
+Dialogue: 0,0:23:53.82,0:23:55.08,Default,,0,0,0,,{\fs40\bord3} to be continued
